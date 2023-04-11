@@ -1,0 +1,10 @@
+# IDEs and editors
+/.idea
+*.iml
+/.vscode
+
+# compiled output
+/dist
+
+# dependencies
+/node_modules
